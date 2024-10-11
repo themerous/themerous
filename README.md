@@ -1,9 +1,7 @@
 # Hi, I'm [Hyunsung Lee](https://github.com/your-username) 👋
 
 ## 🚀 About Me
-I am a **backend developer** with a passion for building scalable, efficient systems. I initially studied **Architectural Engineering**, but later shifted my focus to **programming** during my university studies, especially through my capstone project. I’m particularly interested in **Digital Twin technologies** and **IoT**, as well as how backend systems can power intelligent, connected environments.
-
-After exploring **CAD software** and becoming intrigued by how they work, I found my true calling in programming, especially in handling the backend logic required to meet client needs.
+I am a **backend developer** with a passion for building scalable, efficient systems. I initially studied **Architectural Engineering**, but later shifted my focus to **programming** during my university studies, especially through my capstone project. I’m particularly interested in how backend systems can power intelligent, connected environments.
 
 ## 🛠️ Tech Stack
 
