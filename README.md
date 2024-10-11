@@ -43,7 +43,7 @@ I am a **backend developer** with a passion for building scalable, efficient sys
   - Real-time Chatting System
   - Social Login with Google, Naver, Kakao accounts
 
-### [Multiplayer Online Game - Joseonpaldo](https://github.com/joseonpaldo)
+### [Multiplayer Online Webgame - Joseonpaldo](https://github.com/joseonpaldo)
 **Description:** I worked on the backend & deployment for a multiplayer online game set in the Joseon era. Though the game is not historically or culturally themed, it was a fascinating exploration of server performance optimization and game logic handling.
 - **Key Features:**
   - Server-side game loop management for improved performance
